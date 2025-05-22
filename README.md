@@ -1,6 +1,6 @@
-# screen_proccess_agent
+# Onscreen voice assistant
 
-A new Flutter project.
+This project is a Flutter Web app that integrates Google Gemini Pro Vision via WebSocket to enable image-based conversations powered by voice and screen capture. It lets users talk to the assistant, automatically takes screenshots, and sends them along with voice input to the Gemini API for visual context-based replies.
 
 ## Getting Started
 
